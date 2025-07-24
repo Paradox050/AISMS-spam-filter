@@ -11,7 +11,9 @@ https://www.loom.com/share/aee28b2864354f41b5b2e22a86f1fe7e?sid=9bcfe867-7a2c-4d
 
 
 Model Used
+
 Vectorizer: TfidfVectorizer
+
 Classifier: Logistic Regression
 
 Trained on: Labeled SMS dataset with categories (spam, transactional, promotional)
