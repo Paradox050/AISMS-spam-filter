@@ -70,6 +70,7 @@ Run locally:
 uvicorn app.main:app --host 0.0.0.0 --port 8000
 
 Features
+
 ✔️ AI-based classification for spam, promotional, and transactional messages
 
 ✔️ Whitelisting mechanism for trusted domains and templates
